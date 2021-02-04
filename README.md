@@ -36,8 +36,6 @@ Also,  I started improving myself on **_Front-End Development_**, which I have b
 
 * 🌱  I’m currently learning more about Front-End development.
 
-* 🔭  I am currently looking for a junior front-end developer position or <ins>a professional web development course</ins>.
-
 * 🧗‍♂️ I’m continue to create new contents about growth marketing on [marketingcoder.com](https://marketingcoder.com).
 
 * 💬  If you have any questions or comments about me, feel free to write to me.
