@@ -159,7 +159,11 @@ hr {
 .info-unit {
     color: #666;
     margin-bottom: 20px;
-    margin-top: 45px;
+    
+}
+
+.work {
+    margin-top: 25px;
 }
 
 .remodal-img h3 {
