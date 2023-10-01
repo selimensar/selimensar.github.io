@@ -521,10 +521,14 @@ button {
 
 	input {
 		width: 100%;
+		margin-right: 10px;
+		margin-left: 10px;
 		}
 
 	textarea {
 		width: 100%;
+		margin-right: 10px;
+		margin-left: 10px;
 		}
 
 }
