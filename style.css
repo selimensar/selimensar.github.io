@@ -21,7 +21,7 @@ html {
 #nav-bar {
 	height: auto;
 	width: 100%;
-	position: fixed;
+/* 	position: fixed; */
 	z-index: 100;
 	background-color: black;
 }
@@ -360,13 +360,13 @@ html {
 
 .contact-form {
     margin-top: 50px;
-	margin-bottom: 100px;
+    margin-bottom: 100px;
     text-align: center;
 }
 
 .form-title {
     margin: 0;
-	font-size: 40px;
+    font-size: 40px;
 }
 
 p {
@@ -518,6 +518,14 @@ button {
 		padding: 0 3rem;
 		flex-direction: column;
 	}
+
+	input {
+		width: 100%;
+		}
+
+	textarea {
+		width: 100%;
+		}
 
 }
 
