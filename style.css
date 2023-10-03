@@ -105,7 +105,7 @@ html {
 	transform: translateY(-100%);
 	transition: .3s ease transform;
 	text-align: center;
-	z-index: -1;
+	z-index: 1;
 }
 .nav-bar .nav-list ul li {
 	list-style: none;
@@ -529,8 +529,17 @@ button {
 
 }
 
-/* Media query for desktop and tab  */
 @media only screen and (min-width: 768px) {
+	.hero .hero-img {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin: 0;
+		}
+}
+
+/* Media query for desktop and tab  */
+@media only screen and (min-width: 1058px) {
 	.nav-bar .nav-list .hamburger {
 		display: none;
 	}
@@ -565,6 +574,7 @@ button {
 	.hero .hero-img {
 		min-width: 400px;
 		max-width: 1000px;
+		margin-left: 0;
 	}
 	.about {
 		width: 80%;
