@@ -85,6 +85,11 @@ span {
     display: inline-block;
 }
 
+a {
+    color: #607d8b;
+    text-decoration: none;
+}
+
 .label-value {
     width: 200px;
     vertical-align: top;
@@ -118,7 +123,7 @@ h5 {
 }
 
 h2 {
-    font-weight: 400;
+    font-weight: bold;
     font-size: 17px;
     color: #607d8b;
     line-height: 1.5;
@@ -148,7 +153,7 @@ h2 {
 }
 
 .right-list li {
-    margin-bottom: 12px;
+    margin-bottom: 35px;
 }
 
 
@@ -158,12 +163,18 @@ hr {
 
 .info-unit {
     color: #666;
-    margin-bottom: 20px;
+    margin-bottom: 45px;
     
 }
 
 .work {
     margin-top: 25px;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
 }
 
 .remodal-img h3 {
@@ -278,6 +289,17 @@ progress::-moz-progress-value {
     height: 250px;
 }
 
+.education {
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+h3.edu-title {
+    font-size: 1rem;
+    font-weight: bold;
+}
 
 .container {
     position: relative;
