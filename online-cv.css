@@ -163,7 +163,7 @@ hr {
 
 .info-unit {
     color: #666;
-    margin-bottom: 45px;
+    margin-bottom: 65px;
     
 }
 
@@ -250,8 +250,8 @@ progress::-moz-progress-value {
 
 .me {
     text-align: center;
-    margin-bottom: 20px;
-    margin-top: 20%;
+    margin-bottom: 50px;
+    margin-top: 15%;
 }
 
 .weixin {
