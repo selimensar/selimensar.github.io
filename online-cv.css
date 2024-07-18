@@ -167,9 +167,9 @@ hr {
     
 }
 
-.work {
+/* .work {
     margin-top: 25px;
-}
+} */
 
 .title {
     display: flex;
@@ -250,7 +250,7 @@ progress::-moz-progress-value {
 
 .me {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-top: 7%;
 }
 
